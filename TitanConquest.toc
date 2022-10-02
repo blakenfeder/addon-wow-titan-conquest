@@ -1,0 +1,22 @@
+## Interface: 90207
+
+## Title: Titan Panel [|cffeda55fConquest|r] |cff00aa001.0.0.90207|r
+## Author: Blakenfeder
+## Version: 1.0.0.90207
+
+## Notes: Adds Conquest tracking to Titan Panel
+
+## RequiredDeps: Titan
+## X-Child-Of: Titan
+
+## DefaultState: Enabled
+
+## X-Category: Titan Panel
+## X-Website: https://github.com/blakenfeder/addon-wow-titan-conquest
+
+## X-Curse-Project-ID: 684677
+
+locale\Locale.enUS.lua
+locale\Locale.esMX.lua
+
+TitanConquest.xml
